@@ -1,5 +1,5 @@
--👋 Hi, I’m Mark Tran
--👀 I’m interested in Machine Learning, RF signals, and Web development.
--🌱 I’m a Computer Engineering student @SDSU.
--💞️ I’m looking to collaborate on any project that has to do with aviation or the military. 
--🎓 I am pursuing a bachelor's degree in Computer Engineering from SDSU.
+- 👋 Hi, I’m Mark Tran
+- 👀 I’m interested in Machine Learning, RF signals, and Web development.
+- 🌱 I’m a Computer Engineering student @SDSU.
+- 💞️ I’m looking to collaborate on any project that has to do with aviation or the military. 
+- 🎓 I am pursuing a bachelor's degree in Computer Engineering from SDSU.
